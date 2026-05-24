@@ -1,0 +1,17 @@
+Update my fork from upstream main
+
+---
+
+Create a local branch that merges https://github.com/raine/Lolgato/pull/12
+
+---
+
+Build this
+
+---
+
+Patch it to use my Team ID
+
+---
+
+Install that build to my /Applications folder replacing the version that's there
